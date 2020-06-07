@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Calligraffitti', cursive;
+}
+
+ h1{
+        margin-top: 0;
+        font-family: 'Delius Swash Caps', cursive;
+    }
+.asif{
+    font-size: 100;
+    margin-bottom: 20px;
+}
+
+h2{
+    font-family: 'Comfortaa', cursive;
+}
+
+p{
+    font-family: 'Comfortaa', cursive;
+}
+
+a{
+    font-family: 'Comfortaa', cursive;
+}
+.top-container{
+    background-color:#c2fcf6ab;
+    padding-top: 100px ;
+    position: relative;
+      
+
+}
+.middle-container{
+    background-color:#c2fcf6ab;
+    
+}
+
+.bottom-container{
+    background-color:#000a0a36;
+}
+
+
+.b-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.t-cloud{
+    position: absolute;
+    right: 300px;
+    top:50px;
+}
+
+hr {
+    border-style:none;
+    border-color:gray;
+    border-top-style: dotted ;
+    border-width: 3;
+    width: 40%; 
+}
+
+.web-development{
+ border-radius: 100px;
+}
